@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World</string>
+    <string name="app_name">Weather(MultiTouch)</string>
+    <string name="place">Select Place</string>
+
+</resources><!-- Copyright (c) 2013-2016 YA <ya.androidapp@gmail.com> All rights reserved. -->
